@@ -1,0 +1,2 @@
+
+prinf("%s",str.c_str() );
